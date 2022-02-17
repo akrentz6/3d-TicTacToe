@@ -20,6 +20,7 @@ Step 2 - Run either main.py to play against the computer or perft.py to see perf
 # To Do:
 * Add null move pruning
 * Add late move reduction
+* Account for symmetry of different position in the transposition table
 * Add option for 4x4x4 tictactoe (3x3x3 is winning for the player who starts first)
 * Add option to play against another person, not just the computer
 * Add a graphical interface for playing against the computer
