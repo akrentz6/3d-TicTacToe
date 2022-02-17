@@ -6,8 +6,8 @@ I've used a basic minimax algorithm with alpha beta pruning and a transposition 
 
 
 Stats on my Intel Core i7-7700HQ CPU @ 2.80GHz:
-* Perft test: 45 million nodes / second.
-* Minimax search: 2 million nodes / second.
+* Perft test: 40-45 million nodes / second.
+* Minimax search: ~2 million nodes / second.
 
 
 
