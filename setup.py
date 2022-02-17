@@ -6,5 +6,5 @@ setup(
         [
             "tictactoe.pyx"
         ],
-        annotate=True)
+        annotate=False)
 )
